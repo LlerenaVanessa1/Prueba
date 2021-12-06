@@ -1,15 +1,8 @@
 <resources>
     <string name="app_name">APP_002</string>
 
-    <string name="edittext_hint_nombre1">Nombre</string>
-    <string name="edittext_hint_vanessa">Vanesa</string>
-    <string name="edittext_hint_apellido1">Apellido</string>
-    <string name="edittext_hint_llerena">Llerena</string>
-
-    <string name="edittext_hint_nombre2">Nombre</string>
-    <string name="edittext_hint_santiago">Santiago</string>
-    <string name="edittext_hint_apellido2">Apellido</string>
-    <string name="edittext_hint_nuñez">Niñez</string>
+    <string name="edittext_hint_nombre"> insira seu nome</string>
+    <string name="edittext_hint_apellido">Digite o sobrenome</string>
 
 
 
@@ -34,7 +27,7 @@
 
     <string name="activity_menu_editar_nuevo">Cortar</string>
     <string name="activity_menu_editar_abrir">Cortar</string>
-
+    <string name="activity_menu_editar_cortaP">Cortar</string>
 
 
 
