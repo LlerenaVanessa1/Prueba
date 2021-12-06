@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">APP_002</string>
+
+    <string name="edittext_hint_nombre1">Nombre</string>
+    <string name="edittext_hint_vanessa">Vanesa</string>
+    <string name="edittext_hint_apellido1">Apellido</string>
+    <string name="edittext_hint_llerena">Llerena</string>
+
+    <string name="edittext_hint_nombre2">Nombre</string>
+    <string name="edittext_hint_santiago">Santiago</string>
+    <string name="edittext_hint_apellido2">Apellido</string>
+    <string name="edittext_hint_nuñez">Niñez</string>
+
+
+
+
+    <string name="button_text_aceptar">ACEPTAR</string>
+    <string name="textview">Titulo</string>
+    <string name="text_Button">Finalizar</string>
+
+
+    <string name="button_text_avegador_web">Navegar</string>
+    <string name="button_text_llamar">Llamar</string>
+    <string name="button_text_mostrar">Mostrar</string>
+    <string name="textview_text_lista">Lista numeros</string>
+
+    <string name="activity_menu_archivo">Archivo</string>
+    <string name="activity_menu_acerca_de">Acerca de </string>
+
+    <string name="activity_menu_editar">Editar</string>
+    <string name="activity_menu_editar_copiar">Copiar</string>
+    <string name="activity_menu_editar_pegar">Pegar</string>
+    <string name="activity_menu_editar_cortar">Cortar</string>
+
+    <string name="activity_menu_editar_nuevo">Cortar</string>
+    <string name="activity_menu_editar_abrir">Cortar</string>
+
+
+
+
+</resources>
+

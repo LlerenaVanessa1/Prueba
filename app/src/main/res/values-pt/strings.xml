@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">APP_002</string>
+    <string name="edittext_hint_nombre"> insira seu nome</string>
+    <string name="edittext_hint_apellido">Digite o sobrenome</string>
+    <string name="button_text_aceptar">ACEITAR</string>
+    <string name="textview">Titulo</string>
+
+    <string name="text_Button">Finalizar</string>
+
+    <string name="button_text_avegador_web">Navegar</string>
+    <string name="button_text_llamar">Llamar</string>
+    <string name="button_text_mostrar">Mostrar</string>
+    <string name="textview_text_lista">Lista numeros</string>
+    <string name="activity_menu_archivo">Archivo</string>
+    <string name="activity_menu_acerca_de">Acerca de </string>
+
+    <string name="activity_menu_editar">Editar</string>
+    <string name="activity_menu_editar_copiar">Copiar</string>
+    <string name="activity_menu_editar_pegar">Pegar</string>
+    <string name="activity_menu_editar_cortar">Cortar</string>
+    <string name="activity_menu_editar_nuevo">Cortar</string>
+    <string name="activity_menu_editar_abrir">Cortar</string>
+</resources>
