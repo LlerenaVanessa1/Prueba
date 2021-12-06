@@ -21,4 +21,7 @@
     <string name="activity_menu_editar_cortar">Cortar</string>
     <string name="activity_menu_editar_nuevo">Cortar</string>
     <string name="activity_menu_editar_abrir">Cortar</string>
+    <string name="activity_menu_editar_cortaP">Cortar</string>
+
+
 </resources>
